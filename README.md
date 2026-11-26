@@ -12,7 +12,7 @@ verificados, salidos del proyecto **Claudio Plays** (una IA que juega clásicos 
 |---|---|---|
 | Metroid (USA) | `integrations/Metroid-Nes/` | lista (probada con stable-retro 1.0.1) |
 | Batman: The Video Game (USA) | `integrations/Batman-Nes/` | lista (probada con stable-retro 1.0.1) |
-| Super Mario Bros. 2 (USA) | `integrations/SuperMarioBros2-Nes/` | pendiente (falta verificar con la ROM USA) |
+| Super Mario Bros. 2 (USA) | `integrations/SuperMarioBros2-Nes/` | lista (probada con stable-retro 1.0.1) |
 
 Cada integración sigue el formato de stable-retro:
 
