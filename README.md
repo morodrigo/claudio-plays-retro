@@ -15,6 +15,7 @@ verificados, salidos del proyecto **Claudio Plays** (una IA que juega clásicos 
 | Super Mario Bros. 2 (USA) | `integrations/SuperMarioBros2-Nes/` | lista (probada con stable-retro 1.0.1) |
 | Mega Man (USA) — ampliada | `integrations/MegaMan-Nes/` | lista: mejora la oficial (8 variables y 6 estados más) |
 | Mega Man 2 (USA) — ampliada | `integrations/MegaMan2-Nes/` | lista: mejora la oficial (10 variables y 7 estados más) |
+| Super Mario Bros. / Duck Hunt (USA) | `integrations/SuperMarioBrosDuckHunt-Nes/` | lista: cartucho combinado, 17 variables y los 32 niveles |
 
 Cada integración sigue el formato de stable-retro:
 
