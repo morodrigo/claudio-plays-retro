@@ -14,6 +14,7 @@ verificados, salidos del proyecto **Claudio Plays** (una IA que juega clásicos 
 | Batman: The Video Game (USA) | `integrations/Batman-Nes/` | lista (probada con stable-retro 1.0.1) |
 | Super Mario Bros. 2 (USA) | `integrations/SuperMarioBros2-Nes/` | lista (probada con stable-retro 1.0.1) |
 | Mega Man (USA) — ampliada | `integrations/MegaMan-Nes/` | lista: mejora la oficial (8 variables y 6 estados más) |
+| Mega Man 2 (USA) — ampliada | `integrations/MegaMan2-Nes/` | lista: mejora la oficial (10 variables y 7 estados más) |
 
 Cada integración sigue el formato de stable-retro:
 

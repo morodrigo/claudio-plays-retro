@@ -1,0 +1,56 @@
+{
+  "info": {
+    "health": {
+      "address": 1728,
+      "type": "|u1"
+    },
+    "lives": {
+      "address": 168,
+      "type": "|u1"
+    },
+    "progress": {
+      "address": 1119,
+      "type": ">u2"
+    },
+    "stage": {
+      "address": 42,
+      "type": "|u1"
+    },
+    "boss_health": {
+      "address": 1729,
+      "type": "|u1"
+    },
+    "etanks": {
+      "address": 167,
+      "type": "|u1"
+    },
+    "x_screen": {
+      "address": 1088,
+      "type": "|u1"
+    },
+    "x": {
+      "address": 1120,
+      "type": "|u1"
+    },
+    "y": {
+      "address": 1184,
+      "type": "|u1"
+    },
+    "weapon": {
+      "address": 169,
+      "type": "|u1"
+    },
+    "weapons_obtained": {
+      "address": 154,
+      "type": "|u1"
+    },
+    "items": {
+      "address": 155,
+      "type": "|u1"
+    },
+    "difficulty": {
+      "address": 203,
+      "type": "|u1"
+    }
+  }
+}
