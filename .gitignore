@@ -1,0 +1,17 @@
+# ROMs: nunca se suben (derechos de autor). Solo su huella en rom.sha
+*.nes
+*.NES
+*.zip
+*.7z
+
+# Credenciales y configuracion local
+.env
+secrets/
+*.json.local
+
+# Salidas de pruebas
+output/
+*.mp4
+*.png.tmp
+__pycache__/
+*.pyc
