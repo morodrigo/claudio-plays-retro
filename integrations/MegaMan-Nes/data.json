@@ -1,0 +1,48 @@
+{
+  "info": {
+    "health": {
+      "address": 106,
+      "type": "|u1"
+    },
+    "lives": {
+      "address": 166,
+      "type": "|i1"
+    },
+    "score": {
+      "address": 114,
+      "type": "<n8"
+    },
+    "stage": {
+      "address": 49,
+      "type": "|u1"
+    },
+    "boss_health": {
+      "address": 1729,
+      "type": "|u1"
+    },
+    "x": {
+      "address": 1152,
+      "type": "|u1"
+    },
+    "section": {
+      "address": 1120,
+      "type": "|u1"
+    },
+    "screen": {
+      "address": 27,
+      "type": "|u1"
+    },
+    "y": {
+      "address": 1536,
+      "type": "|u1"
+    },
+    "weapon": {
+      "address": 95,
+      "type": "|u1"
+    },
+    "weapons_obtained": {
+      "address": 93,
+      "type": "|u1"
+    }
+  }
+}
